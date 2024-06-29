@@ -1,5 +1,12 @@
 # odin-uuid
 
+`odin-uuid` has been accepted into the Odin programming language `core` library collection!
+The package was upgraded with all of the latest UUID versions and now features a more complete API.
+
+Check it out under `core:encoding/uuid`.
+
+---
+
 This package implements Universally Unique Identifiers according to the
 standard outlined in [RFC 4122](https://www.rfc-editor.org/rfc/rfc4122.html).
 
